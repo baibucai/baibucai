@@ -3,6 +3,3 @@ console.log("Fearless ahead.");
 ```
 
 
-
-# About
-
